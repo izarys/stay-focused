@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StayFocusedApp</string>
+    <string-array name="time_array">
+        <item>SESSION TIME</item>
+        <item>15:00</item>
+        <item>30:00</item>
+        <item>60:00</item>
+        <item>90:00</item>
+    </string-array>
+</resources>
