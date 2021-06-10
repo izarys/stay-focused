@@ -22,6 +22,15 @@ There are 13 unit tests and they all passed:
 
 ![alt text](https://github.com/izarys/stay-focused/blob/master/unitTests.PNG "Unit tests results")
 
+# Test Cases Descriptions
+https://github.com/izarys/stay-focused/blob/master/testCasesDescriptions.pdf
+
+# Integration Tests
+There are 21 integration tests and they all passed:
+
+![alt text](https://github.com/izarys/stay-focused/blob/master/androidTestResults.PNG "Integration tests results")
+
+
 
 
 # Credits
